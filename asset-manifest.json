@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/startReact/static/css/main.2e7bf5ff.css",
-    "main.js": "/startReact/static/js/main.a540f88d.js",
+    "main.js": "/startReact/static/js/main.59f9615d.js",
     "static/js/787.d3befce1.chunk.js": "/startReact/static/js/787.d3befce1.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/startReact/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/startReact/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -18,11 +18,11 @@
     "static/media/logo.svg": "/startReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/startReact/index.html",
     "main.2e7bf5ff.css.map": "/startReact/static/css/main.2e7bf5ff.css.map",
-    "main.a540f88d.js.map": "/startReact/static/js/main.a540f88d.js.map",
+    "main.59f9615d.js.map": "/startReact/static/js/main.59f9615d.js.map",
     "787.d3befce1.chunk.js.map": "/startReact/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e7bf5ff.css",
-    "static/js/main.a540f88d.js"
+    "static/js/main.59f9615d.js"
   ]
 }
